@@ -1,6 +1,6 @@
 {
   "name": "@yellowcard/yellowcard-styling-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint and Prettier Config for Yellow Card",
   "main": "index.js",
   "scripts": {

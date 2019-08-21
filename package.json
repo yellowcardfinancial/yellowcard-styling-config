@@ -1,0 +1,51 @@
+{
+  "name": "@yellowcard/yellowcard-styling-config",
+  "version": "0.0.3",
+  "description": "ESLint and Prettier Config for Yellow Card",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-compat": "^2.6.3",
+    "eslint-plugin-es5": "^1.3.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-vue": "^4.7.1",
+    "prettier": "^1.15.3",
+    "pretty-quick": "^1.8.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^10.0.2",
+    "prettier": "^1.15.3",
+    "pretty-quick": "^1.8.0",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-compat": "^2.6.3",
+    "eslint-plugin-es5": "^1.3.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-vue": "^4.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowcardfinancial/yellowcard-styling-config.git"
+  },
+  "keywords": [
+    "javascript",
+    "eslint",
+    "lint",
+    "config",
+    "prettier"
+  ],
+  "author": "Justin Poiroux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yellowcardfinancial/yellowcard-styling-config/issues"
+  },
+  "homepage": "https://github.com/yellowcardfinancial/yellowcard-styling-config#readme"
+}
